@@ -4,6 +4,8 @@ Bu repo [Kodluyoruz][def] Front-End Eğitimi kapsamında açtığım ilk repodur
 
 [def]: https://www.kodluyoruz.org
 
+![github](![Ekran görüntüsü](https://github.com/user-attachments/assets/e6fd0e58-4d64-4ce0-9bb8-f01168454652)
+
 
 ## İnstallation
 
